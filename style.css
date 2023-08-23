@@ -1,0 +1,16 @@
+@import url('./estilos/header.css');
+@import url('./estilos/cursos.css');
+@import url('./estilos/adicionar.css');
+
+
+body {
+   margin: 0px;
+   font-family: 'Poppins', sans-serif;
+}
+.none {
+   display: none;
+}
+#fade{
+   background-color: transparent !important;
+   z-index: 2;
+}
